@@ -43,4 +43,9 @@ public class AccountTest {
         assertEquals(9000,acc.getStartingBalance());
         assertEquals(9900,acc.getEndingBalance());
     }
+    
+    @Test
+    public void doNothing(){
+        //Github check push
+    }
 }
